@@ -33,7 +33,7 @@ Non-functional testing (performance, security) was not prioritised for this exer
 ---
 
 ### 1.2 Testing Approach & Rationale
-My approach focuses on validating **high-risk, high-impact user journeys** first, with specifically the ability for a user to browse products and complete a purchase.
+My approach focuses on validating **high-risk, high-impact user journeys** first, specifically the ability for a user to browse products and complete a purchase.
 
 Automation was applied selectively to scenarios that are:
 - Stable
@@ -65,7 +65,7 @@ The following automated tests were implemented to cover core functionality:
 ### Test Case 1: Homepage loads and displays products
 - **Scenario:** User navigates to the homepage
 - **Verification:** Product list is visible
-- **Reason for automation:** Basic smoke test providing fast feedback that the homepage of the website loads and is useable
+- **Reason for automation:** Basic smoke test providing fast feedback that the homepage of the website loads and is usable
 
 ---
 
